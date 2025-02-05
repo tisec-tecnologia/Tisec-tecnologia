@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Bem-vindo à TI Sec 👨‍💻🔒  
+Somos especialistas em **cibersegurança, infraestrutura e terceirização de TI**.  
+
+🌐 Conheça mais sobre nossos serviços: [Visite nosso site](https://tisec.com.br/)
